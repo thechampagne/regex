@@ -27,7 +27,7 @@ aPackageInfo = [
 		"LICENSE"
 	],
 	:ringfolderfiles = 	[
-
+		"bin/load/regex.ring"
 	],
 	:windowsfiles = 	[
 

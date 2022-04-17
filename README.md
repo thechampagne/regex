@@ -1,6 +1,6 @@
 # Regex-ring
 
-[![](https://img.shields.io/github/v/tag/thexxiv/regex?label=version)](https://github.com/thexxiv/regex/releases/latest) [![](https://img.shields.io/github/license/thexxiv/regex)](https://github.com/thexxiv/regex/blob/main/LICENSE)
+[![](https://img.shields.io/github/v/tag/thechampagne/regex?label=version)](https://github.com/thechampagne/regex/releases/latest) [![](https://img.shields.io/github/license/thechampagne/regex)](https://github.com/thechampagne/regex/blob/main/LICENSE)
 
 An easy to use pattern matching for **Ring**.
 
@@ -33,4 +33,4 @@ output:
 
 ### License
 
-Regex-ring is released under the [MIT License](https://github.com/thexxiv/regex/blob/main/LICENSE).
+Regex-ring is released under the [MIT License](https://github.com/thechampagne/regex/blob/main/LICENSE).
